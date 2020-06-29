@@ -11,8 +11,11 @@ Utilizaremos: un Arduino nano con su correspondiente shield de expansión, un m�
 Para empezar, aquí os dejo el [BOM generado por Fritzing](https://github.com/agomezgar/masaylo/blob/master/BOM.pdf)
 <h2>Piezas impresas en 3D</h2>
 <table>
-  <tr><td>Base</td><td><img src="./Images/3Dprinted/base" width="250" height="200"></td></tr>
+  <tr><td>Base</td><td><img src="./Images/3Dprinted/base.png" width="250" height="200"></td></tr>
   <tr><td>Segundo piso</td><td><img src="./Images/3Dprinted/segundoPiso.png" width="250" height="200"></td></tr>
+  <tr><td>Separadores(pasatornillos) entre base y segundo piso (x6)</td><td><img src="./Images/3Dprinted/separadorAlto.png" width="250" height="200"></td></tr>
+  <tr><td>Separadores (pasatornillos) para shield de Arduino y módulo L298 N (x8)</td><td><img src="./Images/3Dprinted/segundoPiso.png" width="250" height="200"></td></tr>
+
 
   </table>
 
