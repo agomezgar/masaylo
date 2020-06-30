@@ -24,7 +24,7 @@ Para empezar, aquí os dejo el [BOM generado por Fritzing](https://github.com/ag
   <h2>Electrónica</h2><br>
 <table>
   <tr> <td>Arduino nano con shield de expansión v3.0</td><td><img src="./Images/Electronics/arduino.jpg" width="250" height="250"></td  </tr>
-    <tr> <td>Micromotores DC con reductora y rueda(x2)</td><td><img src="./Images/Electronics/motorDC.jpg" width="250" height="250"></td  </tr>
+    <tr> <td>Micromotores DC modelo TT con reductora y rueda(x2)</td><td><img src="./Images/Electronics/motorDC.jpg" width="250" height="250"></td  </tr>
   <tr> <td>Módulo L298N para control de motores DC</td><td><img src="./Images/Electronics/L298N.jpg" width="250" height="250"></td>  </tr>
   <tr> <td>Interruptor de 8 mm o similar</td><td><img src="./Images/Electronics/interruptor.jpg" width="250" height="250"></td>  </tr>
   <tr> <td>Portapilas 4xAA<br> (el portapilas 4xAAA también sirve)<br>Soldar el interruptor al polo positivo del portapilas</td><td><img src="./Images/Electronics/interruptor.jpg" width="250" height="250"></td>  </tr>
