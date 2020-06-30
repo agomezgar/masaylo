@@ -6,6 +6,7 @@
 <table>
   <tr><td>Base impresa en 3D</td><td><img src="./Images/3Dprinted/base.png" width="200" height="200"></td></tr>
   <tr><td>Colocadores (x4)</td><td><img src="./Images/3Dprinted/colocador.png" width="200" height="200"></td></tr>
+  <tr><td>Separadores (pasatornillos) para rueda loca (x4)</td><td><img src="./Images/3Dprinted/separaRueda.png" width="200" height="200"></td></tr>
     <tr><td>Motor DC modelo TT con motoreductora y rueda</td><td><img src="./Images/Electronics/motorDC.jpg" width="200" height="200"></td></tr>
       <tr><td>Rueda loca universal para coches</td><td><img src="./Images/Electronics/ruedaLoca.jpg" width="200" height="200"></td></tr>
 
