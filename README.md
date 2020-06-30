@@ -9,7 +9,7 @@ Utilizaremos: un Arduino nano con su correspondiente shield de expansión, un m�
 
 ## BOM (Bill of Materials; qué necesitamos)
 Para empezar, aquí os dejo el [BOM generado por Fritzing](https://github.com/agomezgar/masaylo/blob/master/BOM.pdf)
-<h2>Piezas impresas en 3D</h2>
+<h2>Piezas impresas en 3D</h2><br>
 <table>
   <tr><td>Base</td><td><img src="./Images/3Dprinted/base.png" width="250" height="200"></td></tr>
   <tr><td>Segundo piso</td><td><img src="./Images/3Dprinted/segundoPiso.png" width="250" height="200"></td></tr>
@@ -19,8 +19,10 @@ Para empezar, aquí os dejo el [BOM generado por Fritzing](https://github.com/ag
   <tr><td>Soporte de sensor de ultrasonidos</td><td><img src="./Images/3Dprinted/soporteUS.png" width="250" height="200"></td></tr>
   <tr><td>Soporte de sensor de infrarrojos FC51 (si tiras de sensores baratos)</td><td><img src="./Images/3Dprinted/soporteFC51.png" width="250" height="200"></td></tr>
   <tr><td>Soporte de sensor de infrarrojos TCRT5000 (si los prefieres a los FC51)</td><td><img src="./Images/3Dprinted/soporteTCRT5000.png" width="250" height="200"></td></tr>
-
-
-
   </table>
-
+  
+  <h2>Electrónica</h2><br>
+<table>
+  <tr> <td>Arduino nano con shield de expansión v3.0</td><td><img src="./Images/Electronics/arduino.jpg" width="250" height="250"></td  </tr>
+  
+  </table>
