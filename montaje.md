@@ -3,5 +3,12 @@
 </p>
 <h2> Fijar motores a la base</h2>
 <h3>Piezas </h3>
-<table><tr><td>Base impresa en 3D</td><td><img src="./Images/3Dprinted/base.png" width="200" height="200"></td></tr>
+<table>
+  <tr><td>Base impresa en 3D</td><td><img src="./Images/3Dprinted/base.png" width="200" height="200"></td></tr>
+  <tr><td>Colocadores (x4)</td><td><img src="./Images/3Dprinted/colocador.png" width="200" height="200"></td></tr>
+    <tr><td>Motor DC modelo TT con motoreductora y rueda</td><td><img src="./Images/Electronics/motorDC.jpg" width="200" height="200"></td></tr>
+  <tr><td>4 tornillos M3x35 mm para atornillar los motores a la base</td></tr>
+
+
+
 </table>
