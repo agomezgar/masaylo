@@ -14,5 +14,5 @@
 </table>
 <h3>Proceso </h3>
 <p>a) Fijar motores a la base</p>
-<img src="./Images/montaje/1AFijarMotores.png">
+<img src="./Images/montaje/1aFijarMotores.png">
 
