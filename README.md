@@ -27,9 +27,14 @@ Para empezar, aquí os dejo el [BOM generado por Fritzing](https://github.com/ag
     <tr> <td>Micromotores DC modelo TT con reductora y rueda(x2)</td><td><img src="./Images/Electronics/motorDC.jpg" width="250" height="250"></td  </tr>
   <tr> <td>Módulo L298N para control de motores DC</td><td><img src="./Images/Electronics/L298N.jpg" width="250" height="250"></td>  </tr>
   <tr> <td>Interruptor de 8 mm o similar</td><td><img src="./Images/Electronics/interruptor.jpg" width="250" height="250"></td>  </tr>
-  <tr> <td>Portapilas 4xAA<br> (el portapilas 4xAAA también sirve)<br>Soldar el interruptor al polo positivo del portapilas</td><td><img src="./Images/Electronics/interruptor.jpg" width="250" height="250"></td>  </tr>
+  <tr> <td>Portapilas 4xAA<br> (el portapilas 4xAAA también sirve)<br>Soldar el interruptor al polo positivo del portapilas</td><td><img src="./Images/Electronics/portapilas.jpg" width="250" height="250"></td>  </tr>
   <tr> <td>Sensor de ultrasonidos HC-SR04</td><td><img src="./Images/Electronics/HCSR04.jpg" width="250" height="250"></td>  </tr>
         <tr> <td>Sensor de infrarrojos TCRT 5000<br>(Primera opción)</td><td><img src="./Images/Electronics/TCRT5000.jpg" width="250" height="250"></td>  </tr>
         <tr> <td>Sensor de infrarrojos FC51<br>(Más barato, es el que utilizaremos en los tutoriales)</td><td><img src="./Images/Electronics/FC51.jpg" width="250" height="250"></td>  </tr>
 
+  </table>
+  
+  <h2>Otros</h2>
+  <table>
+  <tr><td>Rueda loca universal para coches, de nylon 23x15</td><td> <img src="./Images/Electronics/ruedaLoca.jpg" width="250" height="250"></td></tr>
   </table>
