@@ -37,5 +37,5 @@ Para empezar, aquí os dejo el [BOM generado por Fritzing](https://github.com/ag
   <h2>Otros</h2>
   <table>
   <tr><td>Rueda loca universal para coches, de nylon 23x15</td><td> <img src="./Images/Electronics/ruedaLoca.jpg" width="250" height="250"></td></tr>
-          <tr> <td>Tornillos y tuercas M3, de 12, 16 y 35 mm</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Inbus.jpg/800px-Inbus.jpg" width="250" height="250"></td>  </tr>
+          <tr> <td>Tornillos y tuercas varios de tipo M3, de 12, 16 y 35 mm</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Inbus.jpg/800px-Inbus.jpg" width="250" height="250"></td>  </tr>
   </table>
