@@ -27,17 +27,25 @@ if (miSerial.available()>0){
     valor=miSerial.read();
     
   //  Serial.println(valor);
-    if (valor=='a'){
+    if (valor=='w'){
       adelante();
+      delay(100);
+      alto();
     }
-    if (valor=='r'){
+    if (valor=='s'){
       atras();
+            delay(100);
+      alto();
     }
-    if (valor=='i'){
-      izquierda();
+    if (valor=='a'){
+      derecha();
+            delay(100);
+      alto();
     }
     if (valor=='d'){
-      derecha();
+      izquierda();
+            delay(100);
+      alto();
     }
         if (valor=='p'){
       alto();
