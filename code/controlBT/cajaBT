@@ -1,0 +1,27 @@
+#include<SoftwareSerial.h>
+//Definimos el pinout
+ const byte rxPin = 10;
+ const byte txPin = 11;
+ SoftwareSerial miSerial(rxPin, txPin);
+int x;
+int y;
+
+void setup() {
+  // put your setup code here, to run once:
+Serial.begin(9600);
+miSerial.begin(19200);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+x=analogRead(A0);
+y=analogRead(A1);
+Serial.print(x);
+Serial.print("\t");
+Serial.println(y);
+delay(100);
+if (x>600)miSerial.write('d');
+if (x<300)miSerial.write('a');
+if (y<300)miSerial.write('s');
+if (y>600)miSerial.write('w');
+}
